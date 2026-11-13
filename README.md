@@ -1,5 +1,7 @@
 # TP DataOps 1
 
+[![ma_pipeline](https://github.com/anthonybnl/tp_dataops_1/actions/workflows/build.yml/badge.svg)](https://github.com/anthonybnl/tp_dataops_1/actions/workflows/build.yml)
+
 **TP CI/CD – GitHub Actions pour Airflow**
 
 Anthony Blondel - Master Data Engineering & AI
